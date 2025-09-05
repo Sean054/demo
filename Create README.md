@@ -6,4 +6,4 @@ this is a demo
 
 ## tutorial
 
-this is a turtorial
+this is a tutorial
